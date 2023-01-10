@@ -1,6 +1,6 @@
 # Fault-Renderer
 
-NTK：我的一个小项目，全称：Neutron Tool Kit（https://github.com/Neutron12138/Neutron-Tool-Kit）
+NTK：我的一个小项目，全称：Neutron Tool Kit，地址：https://github.com/Neutron12138/Neutron-Tool-Kit
 
 一个基于NTK的渲染器
 
