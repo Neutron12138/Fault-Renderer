@@ -1,8 +1,8 @@
 # Fault-Renderer
 
-NTK：Neutron Tool Kit（https://github.com/Neutron12138/Neutron-Tool-Kit）
+NTK：我的一个小项目，全称：Neutron Tool Kit（https://github.com/Neutron12138/Neutron-Tool-Kit）
 
-一个基于NTK（我的小项目）的渲染器
+一个基于NTK的渲染器
 
 命名灵感是"Segment Fault"
 
